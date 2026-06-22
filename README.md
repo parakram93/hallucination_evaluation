@@ -17,3 +17,5 @@ Hallucination Evaluation is an NLP project designed to detect and correct factua
 ## Purpose
 
 This project was built to explore hallucination mitigation in NLP systems by separating the tasks of factual verification and text correction into two specialized models.
+
+Note: In the code given above, the path of the folder may vary because i havent uploaded full path to the files due to the limited storage
